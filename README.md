@@ -25,5 +25,5 @@ Welcome! I'm a **Data Entry & Excel Analysis Specialist** with experience in tur
 - **File:** [data_cleaning_sample.xlsx](link-to-file)
 
 ## 📬 Contact Me
-- **Email:** yourname@email.com
-- **LinkedIn:** [linkedin.com/in/yourname](#)
+- **Email:** tasiuabdullahe18@email.com
+- **LinkedIn:** [[linkedin.com/in/yourname](https://www.linkedin.com/in/tasiu-abdullahi-31bb23)](#)
