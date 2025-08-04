@@ -15,10 +15,11 @@ Welcome! I'm a **Data Entry & Excel Analysis Specialist** with experience in tur
 - **Skills Used:** VLOOKUP, Pivot Tables, Charts, Conditional Formatting
 - **File:** [sales_data_analysis.xlsx](link-to-file)
 
-### 2. Customer Feedback Dashboard
-- **Description:** Built a dashboard to visualize customer feedback trends
-- **Skills Used:** Excel Charts, Data Cleaning, Slicers
-- **File:** [customer_dashboard.xlsx](link-to-file)
+### 📊 2. Customer Feedback Data Analysis  
+- **📝 Description:** Performed detailed data analysis on customer feedback to identify trends, product issues, and satisfaction levels. Cleaned raw data, analyzed sentiment patterns, and summarized insights using Excel.  
+- **🛠️ Skills Used:** Data Cleaning, Excel Charts, Pivot Tables, Slicers, Conditional Formatting  
+- **📁 File:** [customer_feedback_analysis.xlsx](customer_feedback_analysis.xlsx)
+
 
 ### 3. Data Cleaning Example
 - **Description:** Removed duplicates, fixed errors, and formatted messy data
